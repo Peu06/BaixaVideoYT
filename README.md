@@ -35,7 +35,7 @@ String pathToExecutable = "C:/.../yt-dlp.exe";
 Substitua pelo caminho correto no seu computador:
 String pathToExecutable = "C:/Users/seu-usuario/BaixarVideoYT/yt-dlp.exe";
 
-##📌 Diretório de download
+📌 Diretório de download
 String directory = "C:/...";
 
 Substitua pelo caminho correto no seu computador:
