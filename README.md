@@ -25,19 +25,21 @@
 - 🎬 yt-dlp
 - 💻 IntelliJ IDEA / VS Code
 
-## ⚙️ Configuração
+# ⚙️ Configuração
 
- Antes de rodar o projeto, é necessário configurar dois pontos no código:
+## Antes de rodar o projeto, é necessário configurar dois pontos no código:
 
-##📌 Caminho do yt-dlp
+📌 Caminho do yt-dlp
 String pathToExecutable = "C:/.../yt-dlp.exe";
 
 Substitua pelo caminho correto no seu computador:
-
-String pathToExecutable = "C:/Users/seu-usuario/Downloads/yt-dlp.exe";
+String pathToExecutable = "C:/Users/seu-usuario/BaixarVideoYT/yt-dlp.exe";
 
 ##📌 Diretório de download
 String directory = "C:/...";
+
+Substitua pelo caminho correto no seu computador:
+String directory = "C:/Users/seu-usuario/BaixarVideoYT/videos";
 
 ## Este é um projeto de estudo, focado em aprendizado e evolução na área de desenvolvimento back-end com Java.
 
